@@ -1,0 +1,2 @@
+rootProject.name='ListOperations'
+include ':app'
