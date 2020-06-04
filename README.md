@@ -3,17 +3,17 @@ Course about creating Android Applications using Kotlin Programming Language
 
 # Kotlin Course Vides
 ## Lecture One
-### Part One
+### Part 1
 https://www.facebook.com/ahmedyossef.21/videos/3906761576062596/
-### Part Two
+### Part 2
 https://www.facebook.com/ahmedyossef.21/videos/3907081456030608/
 ## Lecture Two
-### Part One
+### Part 1
 https://www.facebook.com/ahmedyossef.21/videos/3915131841892236/
-### Part Two
+### Part 2
 https://www.facebook.com/ahmedyossef.21/videos/3915478475190906/
 ## Lecture Three
-### Part One
+### Part 1
 https://www.facebook.com/ahmedyossef.21/videos/3924330220972398/
-### Part Two
+### Part 2
 https://www.facebook.com/ahmedyossef.21/videos/3924670274271726/
