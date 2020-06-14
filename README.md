@@ -26,3 +26,9 @@ https://www.facebook.com/ahmedyossef.21/videos/3937385363000217/
 https://www.facebook.com/ahmedyossef.21/videos/3946055332133220/
 ### Part 2
 https://www.facebook.com/ahmedyossef.21/videos/3946450822093671/
+
+## Lecture Six
+### Part 1
+https://www.facebook.com/ahmedyossef.21/videos/3969183573153729/
+### Part 2
+https://www.facebook.com/ahmedyossef.21/videos/3969560156449404/
