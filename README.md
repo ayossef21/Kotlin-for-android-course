@@ -1,6 +1,9 @@
 # Kotlin-for-android-course
 Course about creating Android Applications using Kotlin Programming Language
 
+# Watch Course Videos on Youtube
+https://www.youtube.com/watch?v=Tk2iz-DaeaA&list=PL6-uRO30Te82WfUzxDzLVB6lqtCtDcoWA
+
 # Kotlin Course Videos
 ## Lecture One
 ### Part 1
